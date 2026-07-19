@@ -99,7 +99,6 @@ SuperStore-Sales-Dashboard/
 │
 ├── SuperStore_Sales_Dashboard.pbix
 ├── SuperStore_Dataset.xlsx
-├── Dashboard_Screenshot.png
 ├── README.md
 └── requirements.txt
 ```
