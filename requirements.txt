@@ -1,0 +1,7 @@
+Power BI Desktop
+Microsoft Excel
+Power Query
+DAX (Data Analysis Expressions)
+CSV Dataset
+Git
+GitHub
